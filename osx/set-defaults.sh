@@ -93,9 +93,6 @@ defaults write com.apple.screensaver askForPasswordDelay -int 0
 # Wipe all (default) app icons from the Dock
 defaults write com.apple.dock persistent-apps -array
 
-# Setting the icon size of Dock items to 36 pixels for optimal size/screen-realestate
-defaults write com.apple.dock tilesize -int 36
-
 # Speeding up Mission Control animations and grouping windows by application
 defaults write com.apple.dock expose-animation-duration -float 0.1
 defaults write com.apple.dock "expose-group-by-app" -bool true

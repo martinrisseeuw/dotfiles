@@ -23,8 +23,8 @@
       "oceanic-next"
     ]
   editor:
-    fontFamily: "Menlo"
-    fontSize: 12
+    confirmCheckoutHeadRevision: false
+    fontFamily: "Operator Mono"
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
