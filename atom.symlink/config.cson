@@ -19,8 +19,8 @@
     ]
     telemetryConsent: "no"
     themes: [
-      "atom-dark-ui"
-      "oceanic-next"
+      "one-dark-ui"
+      "gloom"
     ]
   editor:
     confirmCheckoutHeadRevision: false
