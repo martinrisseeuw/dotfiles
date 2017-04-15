@@ -4,6 +4,7 @@ tap 'homebrew/bundle'
 tap 'caskroom/fonts'
 tap 'shopify/shopify'
 
+brew 'awsebcli'
 brew 'coreutils'
 brew 'docker'
 brew 'docker-compose'
