@@ -1,0 +1,48 @@
+"*":
+  core:
+    disabledPackages: [
+      "background-tips"
+      "exception-reporting"
+      "metrics"
+    ]
+    followSymlinks: false
+    hideGitIgnoredFiles: true
+    ignoredNames: [
+      ".bundle"
+      ".git"
+      ".DS_Store"
+      "log"
+      "repositories"
+      "tmp"
+      "vendor"
+      "node_modules"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "gloom"
+    ]
+  editor:
+    confirmCheckoutHeadRevision: false
+    fontFamily: "Operator Mono"
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+  "git-plus":
+    general:
+      _analyticsUserId: "db468e6a-daa8-4d89-bd3c-0f0fbaaa0c17"
+      analytics: false
+  linter:
+    lintOnFly: false
+  "linter-stylelint":
+    disableWhenNoConfig: true
+  "spell-check":
+    grammars: [
+      "text.plain"
+      "source.gfm"
+      "text.git-commit"
+      "text.html.basic"
+    ]
+  welcome:
+    showOnStartup: false

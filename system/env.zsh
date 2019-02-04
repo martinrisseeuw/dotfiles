@@ -1,1 +1,1 @@
-export EDITOR='vscode'
+export EDITOR='atom'
